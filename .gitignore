@@ -1,0 +1,5 @@
+*.html
+!Task_FormattingTags.html 
+!Task_SemanticTags.html
+images/
+!images/logoG.png
